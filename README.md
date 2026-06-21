@@ -1,2 +1,14 @@
 # manguan-result-archive
-HTML page archive and documentation
+
+页面发布与维护记录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
